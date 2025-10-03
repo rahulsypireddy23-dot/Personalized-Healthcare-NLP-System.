@@ -1,8 +1,8 @@
 # Personalized-Healthcare-NLP-System.
-Okay, here's a comprehensive README.md file for your Intelligent Healthcare Assistant project. This README covers the objectives, features, setup, usage, and project structure, making it easy for others (and your future self!) to understand and get started with the project.
 
 Intelligent Healthcare Assistant
-Project Overview
+
+Project Overview:
 
 This project aims to develop an intelligent healthcare assistant leveraging Natural Language Processing (NLP), predictive analytics, and explainable AI (XAI) to enhance clinical decision support and reduce administrative burden. The assistant will process unstructured clinical records, predict patient risks, summarize doctor-patient conversations, and provide explainable insights to clinicians.
 
